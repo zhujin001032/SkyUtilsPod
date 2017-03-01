@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/UIDeviceUtil/UIDevice+MKResolution.h

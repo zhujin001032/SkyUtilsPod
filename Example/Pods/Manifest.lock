@@ -1,0 +1,19 @@
+PODS:
+  - SkyUtilsPod (0.1.3):
+    - SSKeychain (~> 1.4.0)
+  - SSKeychain (1.4.1)
+
+DEPENDENCIES:
+  - SkyUtilsPod (from `../`)
+
+EXTERNAL SOURCES:
+  SkyUtilsPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SkyUtilsPod: fc3085e42933b0852433fbf8fb690d7c6edab31c
+  SSKeychain: 55cc80f66f5c73da827e3077f02e43528897db41
+
+PODFILE CHECKSUM: 2ccb6ca9c4a45709c252da5adf91c2a7f012b49f
+
+COCOAPODS: 1.2.0.beta.3
