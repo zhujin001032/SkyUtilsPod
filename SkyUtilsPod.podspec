@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SkyUtilsPod"
-  s.version          = "0.1.3"
+  s.version          = "0.1.4"
   s.summary          = "A short description of SkyUtilsPod."
   s.description      = <<-DESC
                        An optional longer description of SkyUtilsPod
@@ -38,6 +38,6 @@ Pod::Spec.new do |s|
   # Use to auto layout UI, add by Mark 2015-11-27
   # s.dependency 'Masonry', '~> 0.6.2'
   # Use to save device ID and others
-  s.dependency 'SSKeychain','~> 1.4.0'
+  s.dependency 'SAMKeychain','~> 1.5.2'
 
 end

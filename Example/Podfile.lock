@@ -1,7 +1,7 @@
 PODS:
+  - SAMKeychain (1.5.2)
   - SkyUtilsPod (0.1.3):
-    - SSKeychain (~> 1.4.0)
-  - SSKeychain (1.4.1)
+    - SAMKeychain (~> 1.5.2)
 
 DEPENDENCIES:
   - SkyUtilsPod (from `../`)
@@ -11,9 +11,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SkyUtilsPod: fc3085e42933b0852433fbf8fb690d7c6edab31c
-  SSKeychain: 55cc80f66f5c73da827e3077f02e43528897db41
+  SAMKeychain: 1865333198217411f35327e8da61b43de79b635b
+  SkyUtilsPod: 1db82b0795a6e2a2eb2f4d9e5a195acdda65e14f
 
 PODFILE CHECKSUM: 2ccb6ca9c4a45709c252da5adf91c2a7f012b49f
 
-COCOAPODS: 1.2.0.beta.3
+COCOAPODS: 1.2.0

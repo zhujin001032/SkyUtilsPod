@@ -7,116 +7,116 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00B35EE9FF153A606F0DD872B523FBC3 /* UIViewController+MKNavigationItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F5EE36A3D343B1514FA4742B5EE08551 /* UIViewController+MKNavigationItem.m */; };
-		012C0D493D69A4C23D980D4D433D64A8 /* UINavigationBar+MKCustom.h in Headers */ = {isa = PBXBuildFile; fileRef = A1AA7621FBBB90D90632918E65D3269C /* UINavigationBar+MKCustom.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0406C85228A2AEFBA2A66B471115D926 /* UITableView+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = C8CF493D6ED79FC73CA884CE351A271E /* UITableView+MKExtend.m */; };
-		074841CFD9CA8C4BA20314A58C032774 /* UIDevice+MKResolution.h in Headers */ = {isa = PBXBuildFile; fileRef = B2AF5B0576390C3860DF6493665FE005 /* UIDevice+MKResolution.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0E0778DE8D4B8AECAFB23F77EB91AC54 /* UIImage+MKResize.h in Headers */ = {isa = PBXBuildFile; fileRef = D694CC553411F7546A70C96CB4DDC77F /* UIImage+MKResize.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		106A2A387B0119C91633E2435CA1829D /* UIColor+MKHex.h in Headers */ = {isa = PBXBuildFile; fileRef = AD171EB4F8FA233B81AB6785E43F302A /* UIColor+MKHex.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1874AE6CC7835A9E79BDEFFBC6552059 /* UIViewController+MKNavigationItem.h in Headers */ = {isa = PBXBuildFile; fileRef = C96AB4459265FD6B846A29A90584B94A /* UIViewController+MKNavigationItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		187A38DB85F670A1E0E06329C5ED80D2 /* UIImage+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 456014F190C5AD18EA7EA5567A6CA4A7 /* UIImage+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		18E7E866CEBC437CF50593735367B9A1 /* CustomBadge.h in Headers */ = {isa = PBXBuildFile; fileRef = 352752581EA2A2D52142F4ADCCEC56BF /* CustomBadge.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2759361BD1F75BDD7A23CD5C466FC6A5 /* UIViewController+MKAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 89DF217F7C5299D13EB96D718072C611 /* UIViewController+MKAlert.m */; };
-		2B8E1D8745EF22ACEB2D42CDEB31F186 /* NSString+MKSDes.m in Sources */ = {isa = PBXBuildFile; fileRef = 06807F5F54DE42027973B70E3F056E2E /* NSString+MKSDes.m */; };
-		2D7A54E44319CE7A21C4DEC6172B3BBA /* backArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B8A3700BFBA3AE985F0351B74F6E39F7 /* backArrow@2x.png */; };
-		2E5B6C13984A1DD53F3AFFAC3BD52BAF /* Pods-SkyUtilsPod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D91C946A261266F6E9B95E8C12AD97E7 /* Pods-SkyUtilsPod_Tests-dummy.m */; };
-		2EA6A79AD90EB86E1E87AB06906C9C1C /* GTMBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = F55080F553816F16AF63EB262CAC3667 /* GTMBase64.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2EC9603F2BC51DA9498D4FC5DA04D05F /* MKNetworkReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = B80F1D32153A4A5803916DE7BA2D81C5 /* MKNetworkReachability.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3DDAF5F114EA658C8385CE8C9506EEDA /* backArrow@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 60D2B76CD817F496C54A54459FE7A8BA /* backArrow@2x.png */; };
-		3DDF80D077E0A0D31566BDB4649ED454 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
-		4490F5371D574D00CD9C3A38A7C51003 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = C514EF592F91B6F8A3516F55BB5752C4 /* GTMBase64.m */; };
-		46D9A1853EF615AFB78DE78DAE7B1DF0 /* SkyUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 89060E82267EAE3AE55CFC0E40330569 /* SkyUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		48DB44F544039B8AC7A42FAC58313C03 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
-		4952811F47F17A6ECCCB4EF237642A10 /* NSFileManager+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 983BDCBE0898DFB234AE21B88FE67A8B /* NSFileManager+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4DCEB119997FC2D67CC137CA42BB5261 /* UITabBarItem+CustomBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = 029C6B661A6A7D205F3AEF0508F7E334 /* UITabBarItem+CustomBadge.m */; };
-		4E73DFECFE1E73816D11335F68F92F77 /* NSString+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 769A498D72C2F2271040ED079464E643 /* NSString+MKExtend.m */; };
-		4F609B381167D3FF2ECEF7077B15A335 /* UIView+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 382A583084C64236A4C238DCB17973EF /* UIView+MKExtend.m */; };
-		522D9B7DE91FC0A090C966412F5E9550 /* BadgeStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = BE54ED4F4408990E210B90526A7E2B3C /* BadgeStyle.m */; };
-		57C70B735369EE1E5D1BC515AA85225E /* GTMDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = C9D25BEA4DA7BE9A9C1ECCF4C2EDDC61 /* GTMDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5ED970E322BE829DD8CD5B9E95840256 /* SSKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = EDC9251AFAF3072F6B98B502BE5C67DC /* SSKeychain.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F4BDEC0834AE76D3FFA9C4E18AC4E05 /* UIImage+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F4D523B5BE65119C72D4CC53DC5E9 /* UIImage+MKExtend.m */; };
-		6B114B478A93C97FB43477C7360B14B7 /* UIView+MKFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = F0F6DC1C1024EDC8FCAB52236C6C5AC5 /* UIView+MKFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		782E3725509AE8AF5BC9A371003ECFCB /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAFD15069DBFFAF7E7CD48183E2D230C /* Security.framework */; };
-		795265E0B8DB2FDE747CAC0312417313 /* UIColor+MKHex.m in Sources */ = {isa = PBXBuildFile; fileRef = 76110AE94AEFDFFF88FFC7D657903E30 /* UIColor+MKHex.m */; };
-		7C2E49C72D397104ADA892BE37D56AEE /* SkyUtilsInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFAFAEF131C631C019918D9BAD8EBC4 /* SkyUtilsInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7C7D84D0F89AD424BCDC0B1A29C9FA34 /* NSString+MKValidateRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = 402339C42347EA9D276689297E52906F /* NSString+MKValidateRegex.m */; };
-		7E054E380A3ACD2D3A565D3C58C68DB1 /* UITabBar+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 86DDEBE7BF7674B008D11B3746EEC9D4 /* UITabBar+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		874F12476EEFA9A4DD76E3CD78887D9E /* UITabBarItem+CustomBadge.h in Headers */ = {isa = PBXBuildFile; fileRef = BD6A8860A9274EF7C7884EFB645BD395 /* UITabBarItem+CustomBadge.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		87AF7F8895CE5AD843EF3BD94E3795CB /* SSKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CA55F1CE1F18293B1D49BAF18DDE776 /* SSKeychain.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		8DEDCF7E7AFC673D8A7E70C0E154A659 /* SkyUtilsPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 379354E7FCF37A496FB665E875E584A1 /* SkyUtilsPod-dummy.m */; };
-		8FEE9F2DC5DE097E90BEC3EBD23A3B3E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
-		92F66563939DE0BA5771E3EA0E91E98E /* UIViewController+MKAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = E272CBF325C09431DBEEEDEA85F5E3BD /* UIViewController+MKAlert.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		95F40637F0C57CCB51812E6918173871 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
-		989BBE7E742B9F9E838479C4B11B6942 /* NSString+MKSDes.h in Headers */ = {isa = PBXBuildFile; fileRef = 63288DE16D918DEE1D975A6B2BBE789D /* NSString+MKSDes.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		991DEE3398BA1E58F66BCFD60087DD57 /* SSKeychainQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B2C93FB7CE6C11D28856AF731ACE826 /* SSKeychainQuery.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		997D4176AB4FCADEE8BF0666099CAFCF /* BadgeStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 50C904528BD234364C745D2FD451A190 /* BadgeStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9AE5A6BF59DDAFF4437B9E2D05F560D8 /* ZJPlaceHolderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCB1DE75037211F19197BB3EC3751FD /* ZJPlaceHolderTextView.m */; };
-		9C12B3F529CB26BFF9854C709273CA93 /* NSFileManager+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C5B030301BD39E6E69D1D85648038D9 /* NSFileManager+MKExtend.m */; };
-		A868089AE83C930CDE6AEDF8A63328A4 /* UIWindow+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FA41E030C01CAB339F76F1F327B796 /* UIWindow+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A8C06CA5B17B56D44F87A3C8FD47ED60 /* SkyUtilsInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = BB6EE4DFC3842F9FF866AC171D42A4C9 /* SkyUtilsInfo.m */; };
-		B68C3A48BC6623C97DBDC107443BF023 /* MKNetworkReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = D88060C9291801FECAC87AC7060EF2CB /* MKNetworkReachability.m */; };
-		B6B306BB7217940CA2604E882317F072 /* NSString+MKValidateRegex.h in Headers */ = {isa = PBXBuildFile; fileRef = E626E293A12DA7BFB5558EF9F27944DF /* NSString+MKValidateRegex.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B9F41AD65F7678672DD61096E9A5BE9E /* SSKeychain-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 77504E20FE47EEB87BA11F43C8E14798 /* SSKeychain-dummy.m */; };
-		BF9DA6F24D11897292AD253D284E7CCB /* UIWindow+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = A48403C5F51E23E36ACAF03F1DCB63A5 /* UIWindow+MKExtend.m */; };
-		C1FD8833A97136CDFDCDBC0AE8A355EC /* UITabBarController+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 3969932AADCF90B53E87631A88D6AA66 /* UITabBarController+MKExtend.m */; };
-		C27A87866B474CFB8ACC3B1C201430F2 /* UITableView+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 270A8E5724771518BF7E31B1ED9C1990 /* UITableView+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C528BAB99F3C31DF146255ABF0C51B1D /* UIDevice+MKResolution.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D817ADC6C5144229E748DE36B73D8B /* UIDevice+MKResolution.m */; };
-		C5841E9B4F25D01DC6247B30855013D9 /* CustomBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = A94B199F104DA904F992DC69DC2CAE36 /* CustomBadge.m */; };
-		C7DDB8E56BAD93FDFC650FD4373079BB /* UITabBar+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A50459A5D8086D175B1EC6AC7A43873 /* UITabBar+MKExtend.m */; };
-		C87DD1D696CE18FAFC7306D85AA60556 /* NSDate+MKFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = E0E527A12DF4709DC49E4315375BF170 /* NSDate+MKFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CE2DD46033A76A457A222FB928D6EDDB /* UITabBarController+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 1AA98B5FC8F89447B03E76757B078402 /* UITabBarController+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D316874D14CCD6A02A3590EBDA60DA17 /* UIView+MKFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B7305F4EC3709E668BD54D7DE5E90 /* UIView+MKFrame.m */; };
-		D46D9C8FC007338F0A2242390F6677E1 /* UIView+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = A3AEB784CD600C37D6D544DAB68D8A3D /* UIView+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB8F6957AFC3FD8DD75319EE5FCA4B4A /* ZJPlaceHolderTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7B796D89AA8E982A154C0DEBEBC08614 /* ZJPlaceHolderTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DB9D3980C20178A73AFE389C7758442D /* NSDate+MKFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = C839A3DC44F352D5549B2B67B9844A4F /* NSDate+MKFormat.m */; };
-		E91A953CEAE8B8EB513CC13AD27ABA62 /* NSString+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CF89D5DFB1461CABF4FD6A7CFD20181 /* NSString+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EFE115F5B056F48E14E1A46757B0CA21 /* UINavigationBar+MKCustom.m in Sources */ = {isa = PBXBuildFile; fileRef = A1FF5B82D868097B3B1E25E0346494F8 /* UINavigationBar+MKCustom.m */; };
-		F444A8CDDAFF170CA9D96763D451A363 /* SSKeychainQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = EFB765CB9EC2FA0E82E605EBBAFC45EE /* SSKeychainQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F981B3ED3D5CAFCD7553CE07FBF7DBFD /* UIImage+MKResize.m in Sources */ = {isa = PBXBuildFile; fileRef = A95D1747741EEA0BC56B90056AB3120F /* UIImage+MKResize.m */; };
-		FA99D276909566BDA5144D9457EEC899 /* Pods-SkyUtilsPod_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D98C33F1410B146DB5105943B03E660 /* Pods-SkyUtilsPod_Example-dummy.m */; };
+		00F1C052D128839337D373D0C21B3C7C /* SkyUtilsPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 379354E7FCF37A496FB665E875E584A1 /* SkyUtilsPod-dummy.m */; };
+		0480B142F263829D9EEDC4BA56A69E7B /* UIViewController+MKAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = E272CBF325C09431DBEEEDEA85F5E3BD /* UIViewController+MKAlert.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		06A3198416BCEE53175E611C9D4316E5 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CAFD15069DBFFAF7E7CD48183E2D230C /* Security.framework */; };
+		08A7D4BD759E4438061CC02026102A12 /* NSString+MKSDes.h in Headers */ = {isa = PBXBuildFile; fileRef = 63288DE16D918DEE1D975A6B2BBE789D /* NSString+MKSDes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0B14E5C6840A1252F1CF812C87F28ABC /* backArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B8A3700BFBA3AE985F0351B74F6E39F7 /* backArrow@2x.png */; };
+		0CFF2C1117DFFADC7A3B2CD5950E992A /* BadgeStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 50C904528BD234364C745D2FD451A190 /* BadgeStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1166F21C8C5E03586C9DD8D8CA5E5DD2 /* ZJPlaceHolderTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7B796D89AA8E982A154C0DEBEBC08614 /* ZJPlaceHolderTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		123DB3E76EEEBA3DFFA963C3952E6896 /* SAMKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = 0995C228FC1B7D4142C5C1BBD937A92E /* SAMKeychain.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		188D2C8DF311F1D2D8082D7DDB41A159 /* UIDevice+MKResolution.h in Headers */ = {isa = PBXBuildFile; fileRef = B2AF5B0576390C3860DF6493665FE005 /* UIDevice+MKResolution.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1C4C890301F0C9C19D1EF2381DD180B9 /* UITabBar+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 86DDEBE7BF7674B008D11B3746EEC9D4 /* UITabBar+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		20250FE4D15CA51C064DB085AF5FE1D4 /* UITabBarItem+CustomBadge.h in Headers */ = {isa = PBXBuildFile; fileRef = BD6A8860A9274EF7C7884EFB645BD395 /* UITabBarItem+CustomBadge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		21B071560CF04F10A662E0E9498EAFCA /* NSFileManager+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C5B030301BD39E6E69D1D85648038D9 /* NSFileManager+MKExtend.m */; };
+		2245BBF7FA5DE47B22126A44E1734A9B /* NSString+MKSDes.m in Sources */ = {isa = PBXBuildFile; fileRef = 06807F5F54DE42027973B70E3F056E2E /* NSString+MKSDes.m */; };
+		2EFF9E4FCF9DEE752E9C0D269E016BDF /* UITabBar+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A50459A5D8086D175B1EC6AC7A43873 /* UITabBar+MKExtend.m */; };
+		31CA4CCF851AA4B8EE17A4A3D0D4F125 /* UIViewController+MKNavigationItem.h in Headers */ = {isa = PBXBuildFile; fileRef = C96AB4459265FD6B846A29A90584B94A /* UIViewController+MKNavigationItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3318675D930CD73386E45E417B0B89B3 /* UITableView+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = C8CF493D6ED79FC73CA884CE351A271E /* UITableView+MKExtend.m */; };
+		3450227ADAC3D0A686CEEAC2DAE52706 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
+		34874DAF026A16B88FC591BAD13DFED6 /* UINavigationBar+MKCustom.h in Headers */ = {isa = PBXBuildFile; fileRef = A1AA7621FBBB90D90632918E65D3269C /* UINavigationBar+MKCustom.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		381B6C8A9347B77191A919BE525024F2 /* UIView+MKFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = F0F6DC1C1024EDC8FCAB52236C6C5AC5 /* UIView+MKFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3B54A26C4A9A63EF7FF03E3575942CAA /* UIViewController+MKNavigationItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F5EE36A3D343B1514FA4742B5EE08551 /* UIViewController+MKNavigationItem.m */; };
+		4DEE378525E24C526188FB73B818552B /* GTMBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = F55080F553816F16AF63EB262CAC3667 /* GTMBase64.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		529D427ED91538132C91CEC57919668A /* NSString+MKValidateRegex.h in Headers */ = {isa = PBXBuildFile; fileRef = E626E293A12DA7BFB5558EF9F27944DF /* NSString+MKValidateRegex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		530060FD7DBF79C51891F5F168BD099B /* UIImage+MKResize.h in Headers */ = {isa = PBXBuildFile; fileRef = D694CC553411F7546A70C96CB4DDC77F /* UIImage+MKResize.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		59196CC54DA6E21CF0A3B044906C13D0 /* UIColor+MKHex.h in Headers */ = {isa = PBXBuildFile; fileRef = AD171EB4F8FA233B81AB6785E43F302A /* UIColor+MKHex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5D2D51EA6FB7A1EF8E3D04C1690568C8 /* ZJPlaceHolderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCB1DE75037211F19197BB3EC3751FD /* ZJPlaceHolderTextView.m */; };
+		63300BBA1B4929D860C270CEE0B63B0E /* UIViewController+MKAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 89DF217F7C5299D13EB96D718072C611 /* UIViewController+MKAlert.m */; };
+		6485DDE2B4753236A9037E3044B5C2EB /* SkyUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 89060E82267EAE3AE55CFC0E40330569 /* SkyUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		695E959D2F95A42E0E6BC3F83CA086E0 /* SAMKeychain-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A792C64531E0E1BDB513ED163E0DF02 /* SAMKeychain-dummy.m */; };
+		6DA3C06275BD803E3E01CF2B2C4B096E /* UIView+MKFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B7305F4EC3709E668BD54D7DE5E90 /* UIView+MKFrame.m */; };
+		6E8E132FAADA6EF03E18BE33436C70FE /* NSString+MKValidateRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = 402339C42347EA9D276689297E52906F /* NSString+MKValidateRegex.m */; };
+		71371597C0C39B5FCAF6F31ACFE1610F /* CustomBadge.h in Headers */ = {isa = PBXBuildFile; fileRef = 352752581EA2A2D52142F4ADCCEC56BF /* CustomBadge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		78E0FB1015726288E3BEA6FEF0453656 /* CustomBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = A94B199F104DA904F992DC69DC2CAE36 /* CustomBadge.m */; };
+		793BAAC63A8F2E1F5794EF547AE342CA /* BadgeStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = BE54ED4F4408990E210B90526A7E2B3C /* BadgeStyle.m */; };
+		7A8FD1C44E773A2715B90D41ACA3EEEE /* UIWindow+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = A48403C5F51E23E36ACAF03F1DCB63A5 /* UIWindow+MKExtend.m */; };
+		85347EC7578964F1BE7048FB175B0025 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
+		908899E14F05D882CDD5A3FC6E519CA2 /* UIImage+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F4D523B5BE65119C72D4CC53DC5E9 /* UIImage+MKExtend.m */; };
+		9088C927BD9FDFB055782AE0B9875965 /* SAMKeychainQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = B43D4E91BB1404796F7F8F59DCF64C16 /* SAMKeychainQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		91A698EE21661B9B058C12144280D855 /* UIView+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = A3AEB784CD600C37D6D544DAB68D8A3D /* UIView+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		95AFB082BC3A55B98E5324FC67A025FA /* NSString+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 769A498D72C2F2271040ED079464E643 /* NSString+MKExtend.m */; };
+		A57E7049792E6106EE05A2EC39AE8889 /* backArrow@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 60D2B76CD817F496C54A54459FE7A8BA /* backArrow@2x.png */; };
+		AC95594D6C9B706FAE044AC555558F3E /* UITableView+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 270A8E5724771518BF7E31B1ED9C1990 /* UITableView+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B66A0BDC881892A44A0C3872031730A5 /* SAMKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = 48ADE735418E23F2CC8C04F671134364 /* SAMKeychain.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B95E300D8E7D38E0656330B7CC027EA3 /* UIImage+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 456014F190C5AD18EA7EA5567A6CA4A7 /* UIImage+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BC7DCFD14632CD9915BA3C898654ED5C /* UIView+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 382A583084C64236A4C238DCB17973EF /* UIView+MKExtend.m */; };
+		C0F628DF71468C7A04B23E04901FB968 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
+		C575AA12421C2DCF5133363EE7A23EE2 /* UIColor+MKHex.m in Sources */ = {isa = PBXBuildFile; fileRef = 76110AE94AEFDFFF88FFC7D657903E30 /* UIColor+MKHex.m */; };
+		C57DE1656E44FE6AFDA37AF6E26FB35E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */; };
+		D294775C9D2EBB15576AE556AA317945 /* UINavigationBar+MKCustom.m in Sources */ = {isa = PBXBuildFile; fileRef = A1FF5B82D868097B3B1E25E0346494F8 /* UINavigationBar+MKCustom.m */; };
+		D4F8B5F7718F9B681A855FB11DB35873 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = C514EF592F91B6F8A3516F55BB5752C4 /* GTMBase64.m */; };
+		D973A0017095467B94279A885DAAB0AF /* NSString+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CF89D5DFB1461CABF4FD6A7CFD20181 /* NSString+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB9F55FA29CE6AE5D8B27B7324C8FEE4 /* SkyUtilsInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFAFAEF131C631C019918D9BAD8EBC4 /* SkyUtilsInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DDD6A7896A9DC6331CCFBF079F3EDD50 /* UITabBarController+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 1AA98B5FC8F89447B03E76757B078402 /* UITabBarController+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DFA9ABCFBF4D4F9E6412C9B3AE620A7A /* GTMDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = C9D25BEA4DA7BE9A9C1ECCF4C2EDDC61 /* GTMDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DFBF0D6627FA0CF0545B40222854C9F5 /* MKNetworkReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = B80F1D32153A4A5803916DE7BA2D81C5 /* MKNetworkReachability.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DFFBBD9FB591D3E73BD010A83A1EFCF7 /* UITabBarItem+CustomBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = 029C6B661A6A7D205F3AEF0508F7E334 /* UITabBarItem+CustomBadge.m */; };
+		E07BE46CEE6C3C1DFF168A1F4535C613 /* SAMKeychainQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 92DF4C29B09B5D606F6A2CB9B35D83A4 /* SAMKeychainQuery.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		EBB49EB1C4915BB6097EE8C17F4D44FE /* NSDate+MKFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = E0E527A12DF4709DC49E4315375BF170 /* NSDate+MKFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EBDD31385F859F190A8810E92B170617 /* UITabBarController+MKExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = 3969932AADCF90B53E87631A88D6AA66 /* UITabBarController+MKExtend.m */; };
+		EC42104C65F938116B3B552B910F3DDA /* MKNetworkReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = D88060C9291801FECAC87AC7060EF2CB /* MKNetworkReachability.m */; };
+		ED1E07D5BC7D28120C36E7D9CEA6CC1E /* Pods-SkyUtilsPod_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D98C33F1410B146DB5105943B03E660 /* Pods-SkyUtilsPod_Example-dummy.m */; };
+		ED303DBF7F1197DE1612B7D17119C82F /* SkyUtilsInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = BB6EE4DFC3842F9FF866AC171D42A4C9 /* SkyUtilsInfo.m */; };
+		F2300D850359687D470C138D24F783C3 /* Pods-SkyUtilsPod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D91C946A261266F6E9B95E8C12AD97E7 /* Pods-SkyUtilsPod_Tests-dummy.m */; };
+		F253CC0FED1ED7ABD9758467D48272C7 /* UIImage+MKResize.m in Sources */ = {isa = PBXBuildFile; fileRef = A95D1747741EEA0BC56B90056AB3120F /* UIImage+MKResize.m */; };
+		FABC3EBF785E7D6A938A8496AC6D2985 /* UIWindow+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FA41E030C01CAB339F76F1F327B796 /* UIWindow+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FC298400B7FCE2C5A13E60154A7EE62A /* NSFileManager+MKExtend.h in Headers */ = {isa = PBXBuildFile; fileRef = 983BDCBE0898DFB234AE21B88FE67A8B /* NSFileManager+MKExtend.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE1CEBD59CF5C729C818F19186336156 /* NSDate+MKFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = C839A3DC44F352D5549B2B67B9844A4F /* NSDate+MKFormat.m */; };
+		FF5B58F0D06F3033241CB9C2ECEF86B9 /* UIDevice+MKResolution.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D817ADC6C5144229E748DE36B73D8B /* UIDevice+MKResolution.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		04638FCC92D343011788D036FEEF6751 /* PBXContainerItemProxy */ = {
+		3289DD6269D8422617EEF0BEEA3E43FD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3C167CE737B62BA44D4DFF92B3A567E9;
-			remoteInfo = SSKeychain;
+			remoteGlobalIDString = A09FE67F882138024F81CA0F683E576A;
+			remoteInfo = SAMKeychain;
 		};
-		7D0023BB4E747FE7BACEECF52E8C6786 /* PBXContainerItemProxy */ = {
+		6808E0C27B03CDFDA56FF5079E58FB03 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5B2C12C1D5E10345918AC4E391ACCA6F;
+			remoteGlobalIDString = A09FE67F882138024F81CA0F683E576A;
+			remoteInfo = SAMKeychain;
+		};
+		7D10C5A77FCC734253784B6140D5F31A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B6D435AE4BD90A21B3E30A3E2E6F58A;
 			remoteInfo = "SkyUtilsPod-SkyUtilsPod";
 		};
-		97D762BCB580B58ABE8E1B4E10F482D7 /* PBXContainerItemProxy */ = {
+		C7EEDAB1C9694DDE3F3665D37417BBD0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3C167CE737B62BA44D4DFF92B3A567E9;
-			remoteInfo = SSKeychain;
-		};
-		D05D4E31D0F159A5028B303AD82EBB2A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 3C167CE737B62BA44D4DFF92B3A567E9;
-			remoteInfo = SSKeychain;
-		};
-		DEC4782A34D53D33238DCA11DBB26D48 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 49E0C1987179ACD45B7BAF0A5206B86B;
+			remoteGlobalIDString = 44C34926D516B43A0184B8A5B943B872;
 			remoteInfo = SkyUtilsPod;
 		};
-		E72C270D813584F36B233A7E88D758F4 /* PBXContainerItemProxy */ = {
+		CBBEDCE5C588D6516DF853F7E2A40D3B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 49E0C1987179ACD45B7BAF0A5206B86B;
+			remoteGlobalIDString = A09FE67F882138024F81CA0F683E576A;
+			remoteInfo = SAMKeychain;
+		};
+		D7AB9D7C1D6BD9686A2E46E5B478C568 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 44C34926D516B43A0184B8A5B943B872;
 			remoteInfo = SkyUtilsPod;
 		};
 /* End PBXContainerItemProxy section */
@@ -125,8 +125,7 @@
 		029C6B661A6A7D205F3AEF0508F7E334 /* UITabBarItem+CustomBadge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITabBarItem+CustomBadge.m"; sourceTree = "<group>"; };
 		049D4BD1E9D4B38B330766395765BC6A /* Pods-SkyUtilsPod_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SkyUtilsPod_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		06807F5F54DE42027973B70E3F056E2E /* NSString+MKSDes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSString+MKSDes.m"; sourceTree = "<group>"; };
-		134E26CBEE26D172A110ACB50E313AB7 /* libPods-SkyUtilsPod_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-SkyUtilsPod_Tests.a"; path = "libPods-SkyUtilsPod_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		14A18DF1B5D9A172F4EE949079DE6C75 /* libSkyUtilsPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSkyUtilsPod.a; path = libSkyUtilsPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		0995C228FC1B7D4142C5C1BBD937A92E /* SAMKeychain.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SAMKeychain.m; path = Sources/SAMKeychain.m; sourceTree = "<group>"; };
 		1AA98B5FC8F89447B03E76757B078402 /* UITabBarController+MKExtend.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITabBarController+MKExtend.h"; sourceTree = "<group>"; };
 		1ABC3A81A336E94EA6247135823E679A /* Pods-SkyUtilsPod_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SkyUtilsPod_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		24F6527B69C89CC5AA0B51C58BC5735C /* SkyUtilsPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SkyUtilsPod-prefix.pch"; sourceTree = "<group>"; };
@@ -138,29 +137,27 @@
 		379354E7FCF37A496FB665E875E584A1 /* SkyUtilsPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SkyUtilsPod-dummy.m"; sourceTree = "<group>"; };
 		382A583084C64236A4C238DCB17973EF /* UIView+MKExtend.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+MKExtend.m"; sourceTree = "<group>"; };
 		3969932AADCF90B53E87631A88D6AA66 /* UITabBarController+MKExtend.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITabBarController+MKExtend.m"; sourceTree = "<group>"; };
-		3CA55F1CE1F18293B1D49BAF18DDE776 /* SSKeychain.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SSKeychain.m; path = Sources/SSKeychain.m; sourceTree = "<group>"; };
-		3FFE690FA96655484F05BEB42008B5CE /* libPods-SkyUtilsPod_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-SkyUtilsPod_Example.a"; path = "libPods-SkyUtilsPod_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		402339C42347EA9D276689297E52906F /* NSString+MKValidateRegex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSString+MKValidateRegex.m"; sourceTree = "<group>"; };
 		456014F190C5AD18EA7EA5567A6CA4A7 /* UIImage+MKExtend.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+MKExtend.h"; sourceTree = "<group>"; };
+		477501630802C82B13D1242339B64D73 /* SAMKeychain-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SAMKeychain-prefix.pch"; sourceTree = "<group>"; };
+		48ADE735418E23F2CC8C04F671134364 /* SAMKeychain.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SAMKeychain.h; path = Sources/SAMKeychain.h; sourceTree = "<group>"; };
 		4D9897F97D14871EE9CACD160909FD1E /* Pods-SkyUtilsPod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SkyUtilsPod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		50C904528BD234364C745D2FD451A190 /* BadgeStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BadgeStyle.h; sourceTree = "<group>"; };
 		54F13B0DA303F5A407CFA113C46029FA /* Pods-SkyUtilsPod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SkyUtilsPod_Example-frameworks.sh"; sourceTree = "<group>"; };
-		5B2C93FB7CE6C11D28856AF731ACE826 /* SSKeychainQuery.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SSKeychainQuery.m; path = Sources/SSKeychainQuery.m; sourceTree = "<group>"; };
 		60D2B76CD817F496C54A54459FE7A8BA /* backArrow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "backArrow@2x.png"; sourceTree = "<group>"; };
+		6278CC8C6EBD769B4073D2436F387057 /* libPods-SkyUtilsPod_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-SkyUtilsPod_Example.a"; path = "libPods-SkyUtilsPod_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63288DE16D918DEE1D975A6B2BBE789D /* NSString+MKSDes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+MKSDes.h"; sourceTree = "<group>"; };
-		6E05B669323E4663F97EF000831BA620 /* SSKeychain.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SSKeychain.xcconfig; sourceTree = "<group>"; };
 		76110AE94AEFDFFF88FFC7D657903E30 /* UIColor+MKHex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIColor+MKHex.m"; sourceTree = "<group>"; };
 		769A498D72C2F2271040ED079464E643 /* NSString+MKExtend.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSString+MKExtend.m"; sourceTree = "<group>"; };
-		77504E20FE47EEB87BA11F43C8E14798 /* SSKeychain-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SSKeychain-dummy.m"; sourceTree = "<group>"; };
-		790CCB67FFC0C1301FCA2C0884D25B2C /* SkyUtilsPod.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SkyUtilsPod.bundle; path = SkyUtilsPod.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B796D89AA8E982A154C0DEBEBC08614 /* ZJPlaceHolderTextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ZJPlaceHolderTextView.h; sourceTree = "<group>"; };
-		7D051C468AA1C458C77894E3B13A6EFA /* SSKeychain-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSKeychain-prefix.pch"; sourceTree = "<group>"; };
 		7D0F4D523B5BE65119C72D4CC53DC5E9 /* UIImage+MKExtend.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImage+MKExtend.m"; sourceTree = "<group>"; };
 		80582B03C177307367A6F43DE8A9CA45 /* Pods-SkyUtilsPod_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SkyUtilsPod_Tests-resources.sh"; sourceTree = "<group>"; };
 		86DDEBE7BF7674B008D11B3746EEC9D4 /* UITabBar+MKExtend.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITabBar+MKExtend.h"; sourceTree = "<group>"; };
 		89060E82267EAE3AE55CFC0E40330569 /* SkyUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SkyUtils.h; sourceTree = "<group>"; };
 		89DF217F7C5299D13EB96D718072C611 /* UIViewController+MKAlert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+MKAlert.m"; sourceTree = "<group>"; };
+		8A792C64531E0E1BDB513ED163E0DF02 /* SAMKeychain-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SAMKeychain-dummy.m"; sourceTree = "<group>"; };
 		8E4DE78C2DCF16D4CC12AE73E63226B5 /* Pods-SkyUtilsPod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SkyUtilsPod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		92DF4C29B09B5D606F6A2CB9B35D83A4 /* SAMKeychainQuery.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SAMKeychainQuery.m; path = Sources/SAMKeychainQuery.m; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93EBE4EE001E8693E598802844132195 /* Pods-SkyUtilsPod_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SkyUtilsPod_Example-resources.sh"; sourceTree = "<group>"; };
 		96CBA1671BD6DFABD60DCEA207363555 /* Pods-SkyUtilsPod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SkyUtilsPod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -175,25 +172,28 @@
 		A3AEB784CD600C37D6D544DAB68D8A3D /* UIView+MKExtend.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+MKExtend.h"; sourceTree = "<group>"; };
 		A48403C5F51E23E36ACAF03F1DCB63A5 /* UIWindow+MKExtend.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+MKExtend.m"; sourceTree = "<group>"; };
 		A4D817ADC6C5144229E748DE36B73D8B /* UIDevice+MKResolution.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+MKResolution.m"; sourceTree = "<group>"; };
-		A93B9E6AAB9BD507D0B13D3B49EAF59C /* libSSKeychain.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSSKeychain.a; path = libSSKeychain.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A94B199F104DA904F992DC69DC2CAE36 /* CustomBadge.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = CustomBadge.m; sourceTree = "<group>"; };
 		A95D1747741EEA0BC56B90056AB3120F /* UIImage+MKResize.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImage+MKResize.m"; sourceTree = "<group>"; };
 		AD171EB4F8FA233B81AB6785E43F302A /* UIColor+MKHex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+MKHex.h"; sourceTree = "<group>"; };
+		AD2776FE212537401ECB0931857787EA /* libSkyUtilsPod.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSkyUtilsPod.a; path = libSkyUtilsPod.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE2B3B53C752F1E236FE6CBB71C0A7BC /* SAMKeychain.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SAMKeychain.xcconfig; sourceTree = "<group>"; };
 		B2AF5B0576390C3860DF6493665FE005 /* UIDevice+MKResolution.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIDevice+MKResolution.h"; sourceTree = "<group>"; };
+		B43D4E91BB1404796F7F8F59DCF64C16 /* SAMKeychainQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SAMKeychainQuery.h; path = Sources/SAMKeychainQuery.h; sourceTree = "<group>"; };
 		B4690263E3C2DD3C24DEAC554FFBD486 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		B80F1D32153A4A5803916DE7BA2D81C5 /* MKNetworkReachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MKNetworkReachability.h; sourceTree = "<group>"; };
 		B8A3700BFBA3AE985F0351B74F6E39F7 /* backArrow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "backArrow@2x.png"; sourceTree = "<group>"; };
 		BB6EE4DFC3842F9FF866AC171D42A4C9 /* SkyUtilsInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SkyUtilsInfo.m; sourceTree = "<group>"; };
 		BCFAFAEF131C631C019918D9BAD8EBC4 /* SkyUtilsInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SkyUtilsInfo.h; sourceTree = "<group>"; };
 		BD6A8860A9274EF7C7884EFB645BD395 /* UITabBarItem+CustomBadge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITabBarItem+CustomBadge.h"; sourceTree = "<group>"; };
-		BE12B9E2B6E0B3C20CC999932937B21C /* SSKeychain.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = SSKeychain.bundle; path = Support/SSKeychain.bundle; sourceTree = "<group>"; };
 		BE54ED4F4408990E210B90526A7E2B3C /* BadgeStyle.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BadgeStyle.m; sourceTree = "<group>"; };
 		C514EF592F91B6F8A3516F55BB5752C4 /* GTMBase64.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
 		C839A3DC44F352D5549B2B67B9844A4F /* NSDate+MKFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSDate+MKFormat.m"; sourceTree = "<group>"; };
 		C8CF493D6ED79FC73CA884CE351A271E /* UITableView+MKExtend.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITableView+MKExtend.m"; sourceTree = "<group>"; };
+		C903BB6E8CA394B6B19806CA200E2E87 /* SkyUtilsPod.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = SkyUtilsPod.bundle; path = SkyUtilsPod.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		C96AB4459265FD6B846A29A90584B94A /* UIViewController+MKNavigationItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+MKNavigationItem.h"; sourceTree = "<group>"; };
 		C9D25BEA4DA7BE9A9C1ECCF4C2EDDC61 /* GTMDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
 		CAFD15069DBFFAF7E7CD48183E2D230C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
+		CC4627480091149773377235C56678EE /* libSAMKeychain.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSAMKeychain.a; path = libSAMKeychain.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDCB1DE75037211F19197BB3EC3751FD /* ZJPlaceHolderTextView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ZJPlaceHolderTextView.m; sourceTree = "<group>"; };
 		D694CC553411F7546A70C96CB4DDC77F /* UIImage+MKResize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+MKResize.h"; sourceTree = "<group>"; };
 		D88060C9291801FECAC87AC7060EF2CB /* MKNetworkReachability.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MKNetworkReachability.m; sourceTree = "<group>"; };
@@ -204,52 +204,52 @@
 		E0E527A12DF4709DC49E4315375BF170 /* NSDate+MKFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSDate+MKFormat.h"; sourceTree = "<group>"; };
 		E272CBF325C09431DBEEEDEA85F5E3BD /* UIViewController+MKAlert.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+MKAlert.h"; sourceTree = "<group>"; };
 		E626E293A12DA7BFB5558EF9F27944DF /* NSString+MKValidateRegex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+MKValidateRegex.h"; sourceTree = "<group>"; };
-		EDC9251AFAF3072F6B98B502BE5C67DC /* SSKeychain.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSKeychain.h; path = Sources/SSKeychain.h; sourceTree = "<group>"; };
-		EFB765CB9EC2FA0E82E605EBBAFC45EE /* SSKeychainQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SSKeychainQuery.h; path = Sources/SSKeychainQuery.h; sourceTree = "<group>"; };
 		F0F6DC1C1024EDC8FCAB52236C6C5AC5 /* UIView+MKFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+MKFrame.h"; sourceTree = "<group>"; };
 		F1E4A8DE20F42AF554A726644C9781B1 /* Pods-SkyUtilsPod_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SkyUtilsPod_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F55080F553816F16AF63EB262CAC3667 /* GTMBase64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
 		F5EE36A3D343B1514FA4742B5EE08551 /* UIViewController+MKNavigationItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+MKNavigationItem.m"; sourceTree = "<group>"; };
+		F6068AB4D3A771ADE6BD48428C79FA86 /* libPods-SkyUtilsPod_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-SkyUtilsPod_Tests.a"; path = "libPods-SkyUtilsPod_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9C24987F49BF813990DFE52B15DB773 /* SAMKeychain.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = SAMKeychain.bundle; path = Support/SAMKeychain.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		20CB99AC2743FB2DA141F6808DED4598 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				48DB44F544039B8AC7A42FAC58313C03 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5B8D57B6E9DD480154C3D2AF7AB4CD71 /* Frameworks */ = {
+		150124BD744641628DFA174E899B9CE7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		73CBB3D20FE1AA09FA8092A9EFA2DEC4 /* Frameworks */ = {
+		3909BC3092CBF9D3C200536CCCA17789 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95F40637F0C57CCB51812E6918173871 /* Foundation.framework in Frameworks */,
-				782E3725509AE8AF5BC9A371003ECFCB /* Security.framework in Frameworks */,
+				85347EC7578964F1BE7048FB175B0025 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E06098D5163E60AF287CC6A9A802A2BF /* Frameworks */ = {
+		5191F6E98355E781F1B3A34DD88C9537 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FEE9F2DC5DE097E90BEC3EBD23A3B3E /* Foundation.framework in Frameworks */,
+				C0F628DF71468C7A04B23E04901FB968 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F668409ECBE63450A358BC3190A06752 /* Frameworks */ = {
+		63236F1F56D88B8C7F8E7045E055C7F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3DDF80D077E0A0D31566BDB4649ED454 /* Foundation.framework in Frameworks */,
+				3450227ADAC3D0A686CEEAC2DAE52706 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6C8E2CB4E29B158EC72DB6B5822A5E93 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C57DE1656E44FE6AFDA37AF6E26FB35E /* Foundation.framework in Frameworks */,
+				06A3198416BCEE53175E611C9D4316E5 /* Security.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -357,43 +357,6 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		3506E696DD1BC60EAE3128B33A73BA4F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				6E05B669323E4663F97EF000831BA620 /* SSKeychain.xcconfig */,
-				77504E20FE47EEB87BA11F43C8E14798 /* SSKeychain-dummy.m */,
-				7D051C468AA1C458C77894E3B13A6EFA /* SSKeychain-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/SSKeychain";
-			sourceTree = "<group>";
-		};
-		3F6178A94DBE039688D5FB5A87F66367 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				3FFE690FA96655484F05BEB42008B5CE /* libPods-SkyUtilsPod_Example.a */,
-				134E26CBEE26D172A110ACB50E313AB7 /* libPods-SkyUtilsPod_Tests.a */,
-				14A18DF1B5D9A172F4EE949079DE6C75 /* libSkyUtilsPod.a */,
-				A93B9E6AAB9BD507D0B13D3B49EAF59C /* libSSKeychain.a */,
-				790CCB67FFC0C1301FCA2C0884D25B2C /* SkyUtilsPod.bundle */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		3F7DF3EBA2E30A129F7CE4C2B62A866A /* SSKeychain */ = {
-			isa = PBXGroup;
-			children = (
-				EDC9251AFAF3072F6B98B502BE5C67DC /* SSKeychain.h */,
-				3CA55F1CE1F18293B1D49BAF18DDE776 /* SSKeychain.m */,
-				EFB765CB9EC2FA0E82E605EBBAFC45EE /* SSKeychainQuery.h */,
-				5B2C93FB7CE6C11D28856AF731ACE826 /* SSKeychainQuery.m */,
-				EA0C0D9AA54ADE5B2E9DBAF6D160EECF /* Resources */,
-				3506E696DD1BC60EAE3128B33A73BA4F /* Support Files */,
-			);
-			name = SSKeychain;
-			path = SSKeychain;
-			sourceTree = "<group>";
-		};
 		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -410,6 +373,20 @@
 			);
 			name = RegExUtil;
 			path = RegExUtil;
+			sourceTree = "<group>";
+		};
+		4A7BD6922BE2D6F9FEB09A03AF2A2C81 /* SAMKeychain */ = {
+			isa = PBXGroup;
+			children = (
+				48ADE735418E23F2CC8C04F671134364 /* SAMKeychain.h */,
+				0995C228FC1B7D4142C5C1BBD937A92E /* SAMKeychain.m */,
+				B43D4E91BB1404796F7F8F59DCF64C16 /* SAMKeychainQuery.h */,
+				92DF4C29B09B5D606F6A2CB9B35D83A4 /* SAMKeychainQuery.m */,
+				9138EC939AE4F9FEC0B88CFB72C01F1B /* Resources */,
+				9B840CF54BEDFBBB4265C54954F765A4 /* Support Files */,
+			);
+			name = SAMKeychain;
+			path = SAMKeychain;
 			sourceTree = "<group>";
 		};
 		4E3B7231D5F334EF3B888D817F48931A /* Resources */ = {
@@ -509,10 +486,18 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				4FAE641C05345A21E7BA82340C9CE02B /* Development Pods */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
-				A391E83FBFD8A7CEE61F49AD42D99D6B /* Pods */,
-				3F6178A94DBE039688D5FB5A87F66367 /* Products */,
+				BF4BDEF7DEC1C21CD808737A4ACDE8FB /* Pods */,
+				CDB2048CE50D28FEF42821DC8E823CA0 /* Products */,
 				34562FC473F43ADA3FA309432C223B36 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		9138EC939AE4F9FEC0B88CFB72C01F1B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F9C24987F49BF813990DFE52B15DB773 /* SAMKeychain.bundle */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		934B18A6D0C10E55FFFB1129BFFA6464 /* BadgeUtil */ = {
@@ -527,12 +512,15 @@
 			path = BadgeUtil;
 			sourceTree = "<group>";
 		};
-		A391E83FBFD8A7CEE61F49AD42D99D6B /* Pods */ = {
+		9B840CF54BEDFBBB4265C54954F765A4 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				3F7DF3EBA2E30A129F7CE4C2B62A866A /* SSKeychain */,
+				AE2B3B53C752F1E236FE6CBB71C0A7BC /* SAMKeychain.xcconfig */,
+				8A792C64531E0E1BDB513ED163E0DF02 /* SAMKeychain-dummy.m */,
+				477501630802C82B13D1242339B64D73 /* SAMKeychain-prefix.pch */,
 			);
-			name = Pods;
+			name = "Support Files";
+			path = "../Target Support Files/SAMKeychain";
 			sourceTree = "<group>";
 		};
 		AAC163831AB78DDDF1A1440925A9F19A /* UIViewControllerUtil */ = {
@@ -550,6 +538,14 @@
 			path = UIViewControllerUtil;
 			sourceTree = "<group>";
 		};
+		BF4BDEF7DEC1C21CD808737A4ACDE8FB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4A7BD6922BE2D6F9FEB09A03AF2A2C81 /* SAMKeychain */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		C42764A0EABB7908388B14295084CD14 /* Pods-SkyUtilsPod_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -563,6 +559,18 @@
 			);
 			name = "Pods-SkyUtilsPod_Tests";
 			path = "Target Support Files/Pods-SkyUtilsPod_Tests";
+			sourceTree = "<group>";
+		};
+		CDB2048CE50D28FEF42821DC8E823CA0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6278CC8C6EBD769B4073D2436F387057 /* libPods-SkyUtilsPod_Example.a */,
+				F6068AB4D3A771ADE6BD48428C79FA86 /* libPods-SkyUtilsPod_Tests.a */,
+				CC4627480091149773377235C56678EE /* libSAMKeychain.a */,
+				AD2776FE212537401ECB0931857787EA /* libSkyUtilsPod.a */,
+				C903BB6E8CA394B6B19806CA200E2E87 /* SkyUtilsPod.bundle */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		CDCEDC347A285AD855F36FB8F0B66B1F /* TextView */ = {
@@ -621,14 +629,6 @@
 			path = "Target Support Files/Pods-SkyUtilsPod_Example";
 			sourceTree = "<group>";
 		};
-		EA0C0D9AA54ADE5B2E9DBAF6D160EECF /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				BE12B9E2B6E0B3C20CC999932937B21C /* SSKeychain.bundle */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
 		F4887ADD107E34344DD536297E89E227 /* UIDeviceUtil */ = {
 			isa = PBXGroup;
 			children = (
@@ -651,95 +651,77 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		85F6F1F9FA03D356960209033C6198DD /* Headers */ = {
+		6C4DB7626C216A04221FBDA7FDA71E5E /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				997D4176AB4FCADEE8BF0666099CAFCF /* BadgeStyle.h in Headers */,
-				18E7E866CEBC437CF50593735367B9A1 /* CustomBadge.h in Headers */,
-				2EA6A79AD90EB86E1E87AB06906C9C1C /* GTMBase64.h in Headers */,
-				57C70B735369EE1E5D1BC515AA85225E /* GTMDefines.h in Headers */,
-				2EC9603F2BC51DA9498D4FC5DA04D05F /* MKNetworkReachability.h in Headers */,
-				C87DD1D696CE18FAFC7306D85AA60556 /* NSDate+MKFormat.h in Headers */,
-				4952811F47F17A6ECCCB4EF237642A10 /* NSFileManager+MKExtend.h in Headers */,
-				E91A953CEAE8B8EB513CC13AD27ABA62 /* NSString+MKExtend.h in Headers */,
-				989BBE7E742B9F9E838479C4B11B6942 /* NSString+MKSDes.h in Headers */,
-				B6B306BB7217940CA2604E882317F072 /* NSString+MKValidateRegex.h in Headers */,
-				46D9A1853EF615AFB78DE78DAE7B1DF0 /* SkyUtils.h in Headers */,
-				7C2E49C72D397104ADA892BE37D56AEE /* SkyUtilsInfo.h in Headers */,
-				106A2A387B0119C91633E2435CA1829D /* UIColor+MKHex.h in Headers */,
-				074841CFD9CA8C4BA20314A58C032774 /* UIDevice+MKResolution.h in Headers */,
-				187A38DB85F670A1E0E06329C5ED80D2 /* UIImage+MKExtend.h in Headers */,
-				0E0778DE8D4B8AECAFB23F77EB91AC54 /* UIImage+MKResize.h in Headers */,
-				012C0D493D69A4C23D980D4D433D64A8 /* UINavigationBar+MKCustom.h in Headers */,
-				7E054E380A3ACD2D3A565D3C58C68DB1 /* UITabBar+MKExtend.h in Headers */,
-				CE2DD46033A76A457A222FB928D6EDDB /* UITabBarController+MKExtend.h in Headers */,
-				874F12476EEFA9A4DD76E3CD78887D9E /* UITabBarItem+CustomBadge.h in Headers */,
-				C27A87866B474CFB8ACC3B1C201430F2 /* UITableView+MKExtend.h in Headers */,
-				D46D9C8FC007338F0A2242390F6677E1 /* UIView+MKExtend.h in Headers */,
-				6B114B478A93C97FB43477C7360B14B7 /* UIView+MKFrame.h in Headers */,
-				92F66563939DE0BA5771E3EA0E91E98E /* UIViewController+MKAlert.h in Headers */,
-				1874AE6CC7835A9E79BDEFFBC6552059 /* UIViewController+MKNavigationItem.h in Headers */,
-				A868089AE83C930CDE6AEDF8A63328A4 /* UIWindow+MKExtend.h in Headers */,
-				DB8F6957AFC3FD8DD75319EE5FCA4B4A /* ZJPlaceHolderTextView.h in Headers */,
+				0CFF2C1117DFFADC7A3B2CD5950E992A /* BadgeStyle.h in Headers */,
+				71371597C0C39B5FCAF6F31ACFE1610F /* CustomBadge.h in Headers */,
+				4DEE378525E24C526188FB73B818552B /* GTMBase64.h in Headers */,
+				DFA9ABCFBF4D4F9E6412C9B3AE620A7A /* GTMDefines.h in Headers */,
+				DFBF0D6627FA0CF0545B40222854C9F5 /* MKNetworkReachability.h in Headers */,
+				EBB49EB1C4915BB6097EE8C17F4D44FE /* NSDate+MKFormat.h in Headers */,
+				FC298400B7FCE2C5A13E60154A7EE62A /* NSFileManager+MKExtend.h in Headers */,
+				D973A0017095467B94279A885DAAB0AF /* NSString+MKExtend.h in Headers */,
+				08A7D4BD759E4438061CC02026102A12 /* NSString+MKSDes.h in Headers */,
+				529D427ED91538132C91CEC57919668A /* NSString+MKValidateRegex.h in Headers */,
+				6485DDE2B4753236A9037E3044B5C2EB /* SkyUtils.h in Headers */,
+				DB9F55FA29CE6AE5D8B27B7324C8FEE4 /* SkyUtilsInfo.h in Headers */,
+				59196CC54DA6E21CF0A3B044906C13D0 /* UIColor+MKHex.h in Headers */,
+				188D2C8DF311F1D2D8082D7DDB41A159 /* UIDevice+MKResolution.h in Headers */,
+				B95E300D8E7D38E0656330B7CC027EA3 /* UIImage+MKExtend.h in Headers */,
+				530060FD7DBF79C51891F5F168BD099B /* UIImage+MKResize.h in Headers */,
+				34874DAF026A16B88FC591BAD13DFED6 /* UINavigationBar+MKCustom.h in Headers */,
+				1C4C890301F0C9C19D1EF2381DD180B9 /* UITabBar+MKExtend.h in Headers */,
+				DDD6A7896A9DC6331CCFBF079F3EDD50 /* UITabBarController+MKExtend.h in Headers */,
+				20250FE4D15CA51C064DB085AF5FE1D4 /* UITabBarItem+CustomBadge.h in Headers */,
+				AC95594D6C9B706FAE044AC555558F3E /* UITableView+MKExtend.h in Headers */,
+				91A698EE21661B9B058C12144280D855 /* UIView+MKExtend.h in Headers */,
+				381B6C8A9347B77191A919BE525024F2 /* UIView+MKFrame.h in Headers */,
+				0480B142F263829D9EEDC4BA56A69E7B /* UIViewController+MKAlert.h in Headers */,
+				31CA4CCF851AA4B8EE17A4A3D0D4F125 /* UIViewController+MKNavigationItem.h in Headers */,
+				FABC3EBF785E7D6A938A8496AC6D2985 /* UIWindow+MKExtend.h in Headers */,
+				1166F21C8C5E03586C9DD8D8CA5E5DD2 /* ZJPlaceHolderTextView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DAA1516834A3118D38CD75A8661B8CBB /* Headers */ = {
+		6FC82F0CA4B50B7EF7CDE5391F134E5D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5ED970E322BE829DD8CD5B9E95840256 /* SSKeychain.h in Headers */,
-				F444A8CDDAFF170CA9D96763D451A363 /* SSKeychainQuery.h in Headers */,
+				B66A0BDC881892A44A0C3872031730A5 /* SAMKeychain.h in Headers */,
+				9088C927BD9FDFB055782AE0B9875965 /* SAMKeychainQuery.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		3C167CE737B62BA44D4DFF92B3A567E9 /* SSKeychain */ = {
+		3041AD50634A7AF603940FEA061471D3 /* Pods-SkyUtilsPod_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F0B1A6A5C4EEAD75081B9566D846147C /* Build configuration list for PBXNativeTarget "SSKeychain" */;
+			buildConfigurationList = 7A10CA2093CA69772C37011ACC3FFD93 /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Tests" */;
 			buildPhases = (
-				66C23169B47A00B68E90C1884429A044 /* Sources */,
-				73CBB3D20FE1AA09FA8092A9EFA2DEC4 /* Frameworks */,
-				DAA1516834A3118D38CD75A8661B8CBB /* Headers */,
+				17E97A5B74B3119A7C8586927E9D5340 /* Sources */,
+				3909BC3092CBF9D3C200536CCCA17789 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				2ABC95F443C0879269571EFF252C1A4A /* PBXTargetDependency */,
+				8F77324FFCC4C93E28B58C9702943CF6 /* PBXTargetDependency */,
 			);
-			name = SSKeychain;
-			productName = SSKeychain;
-			productReference = A93B9E6AAB9BD507D0B13D3B49EAF59C /* libSSKeychain.a */;
+			name = "Pods-SkyUtilsPod_Tests";
+			productName = "Pods-SkyUtilsPod_Tests";
+			productReference = F6068AB4D3A771ADE6BD48428C79FA86 /* libPods-SkyUtilsPod_Tests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		49E0C1987179ACD45B7BAF0A5206B86B /* SkyUtilsPod */ = {
+		3B6D435AE4BD90A21B3E30A3E2E6F58A /* SkyUtilsPod-SkyUtilsPod */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1CCABCF5B480B5A6081A19DACF0D41A7 /* Build configuration list for PBXNativeTarget "SkyUtilsPod" */;
+			buildConfigurationList = 0498DD23EE824AFF8B300A4F590B3C97 /* Build configuration list for PBXNativeTarget "SkyUtilsPod-SkyUtilsPod" */;
 			buildPhases = (
-				E2A8BD4B6C3A333AB860CAF08BB0580C /* Sources */,
-				20CB99AC2743FB2DA141F6808DED4598 /* Frameworks */,
-				85F6F1F9FA03D356960209033C6198DD /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C66BE7DD00C9ED2E6FC6F853B825BCBA /* PBXTargetDependency */,
-				94A54DCA6B8F371D362DB2530A46AD90 /* PBXTargetDependency */,
-			);
-			name = SkyUtilsPod;
-			productName = SkyUtilsPod;
-			productReference = 14A18DF1B5D9A172F4EE949079DE6C75 /* libSkyUtilsPod.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		5B2C12C1D5E10345918AC4E391ACCA6F /* SkyUtilsPod-SkyUtilsPod */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 61FB7DC4ECD8B0B1F7006B840B4F9E85 /* Build configuration list for PBXNativeTarget "SkyUtilsPod-SkyUtilsPod" */;
-			buildPhases = (
-				31C88BF5C625C9316EDDFD32993F278C /* Sources */,
-				5B8D57B6E9DD480154C3D2AF7AB4CD71 /* Frameworks */,
-				6E80E5CDA2E63F7009E1B26D0A378C9B /* Resources */,
+				15BAB53F5F22DCC0820E21BF345C42F9 /* Sources */,
+				150124BD744641628DFA174E899B9CE7 /* Frameworks */,
+				03FD6060277EEB6295DD0A3010B21A16 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -747,43 +729,61 @@
 			);
 			name = "SkyUtilsPod-SkyUtilsPod";
 			productName = "SkyUtilsPod-SkyUtilsPod";
-			productReference = 790CCB67FFC0C1301FCA2C0884D25B2C /* SkyUtilsPod.bundle */;
+			productReference = C903BB6E8CA394B6B19806CA200E2E87 /* SkyUtilsPod.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		7AFC6DA01CD8FE0691CAF49EF41513F5 /* Pods-SkyUtilsPod_Example */ = {
+		44C34926D516B43A0184B8A5B943B872 /* SkyUtilsPod */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 201E6C17725BF9358D79EB15415CDB98 /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Example" */;
+			buildConfigurationList = 4752D73985F4D5B1876B8EA156F4BA72 /* Build configuration list for PBXNativeTarget "SkyUtilsPod" */;
 			buildPhases = (
-				2DCFD89BC53FF1BE92D9FC474CD7BE13 /* Sources */,
-				F668409ECBE63450A358BC3190A06752 /* Frameworks */,
+				A20B8E4B3099DFD85D3A5F93C85E690A /* Sources */,
+				5191F6E98355E781F1B3A34DD88C9537 /* Frameworks */,
+				6C4DB7626C216A04221FBDA7FDA71E5E /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7CEDA7CF9AE637EA0242969ED72F82EB /* PBXTargetDependency */,
-				C032EC7BEEE7557F33898F6C9C74789A /* PBXTargetDependency */,
+				FA915AEE0F21CFB6FCF5D8EB73A61579 /* PBXTargetDependency */,
+				ECDE795C687C0E111B10B2E3FF3E533C /* PBXTargetDependency */,
+			);
+			name = SkyUtilsPod;
+			productName = SkyUtilsPod;
+			productReference = AD2776FE212537401ECB0931857787EA /* libSkyUtilsPod.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		A09FE67F882138024F81CA0F683E576A /* SAMKeychain */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C7E00E571A9F15350503C55F028E1DC5 /* Build configuration list for PBXNativeTarget "SAMKeychain" */;
+			buildPhases = (
+				589E806B8675972F9C356CF3F04FB597 /* Sources */,
+				6C8E2CB4E29B158EC72DB6B5822A5E93 /* Frameworks */,
+				6FC82F0CA4B50B7EF7CDE5391F134E5D /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SAMKeychain;
+			productName = SAMKeychain;
+			productReference = CC4627480091149773377235C56678EE /* libSAMKeychain.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		A650E2C70CE62767B65129142819C794 /* Pods-SkyUtilsPod_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4DF98CB39AEFA1346B9CA96FB3D411D7 /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Example" */;
+			buildPhases = (
+				0EB796C4AC8B47DBFC276D8F93A81C33 /* Sources */,
+				63236F1F56D88B8C7F8E7045E055C7F2 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				86DDAE9DC78BA1E1764F0AAA3FA700A6 /* PBXTargetDependency */,
+				45986CAF9F6AF777BFD68E2B24D50FCE /* PBXTargetDependency */,
 			);
 			name = "Pods-SkyUtilsPod_Example";
 			productName = "Pods-SkyUtilsPod_Example";
-			productReference = 3FFE690FA96655484F05BEB42008B5CE /* libPods-SkyUtilsPod_Example.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		E29202D3B04D9FB8C2846FD43CA905BE /* Pods-SkyUtilsPod_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 9336AE40909C210F8D5C2F42CB3AB17C /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Tests" */;
-			buildPhases = (
-				4F6637DFF73AA0332076A6B54EC584D1 /* Sources */,
-				E06098D5163E60AF287CC6A9A802A2BF /* Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8187B566502BD63F90C2362409EC506E /* PBXTargetDependency */,
-				019C7E6558CCC726CADE577E78435C43 /* PBXTargetDependency */,
-			);
-			name = "Pods-SkyUtilsPod_Tests";
-			productName = "Pods-SkyUtilsPod_Tests";
-			productReference = 134E26CBEE26D172A110ACB50E313AB7 /* libPods-SkyUtilsPod_Tests.a */;
+			productReference = 6278CC8C6EBD769B4073D2436F387057 /* libPods-SkyUtilsPod_Example.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -803,140 +803,163 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 3F6178A94DBE039688D5FB5A87F66367 /* Products */;
+			productRefGroup = CDB2048CE50D28FEF42821DC8E823CA0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7AFC6DA01CD8FE0691CAF49EF41513F5 /* Pods-SkyUtilsPod_Example */,
-				E29202D3B04D9FB8C2846FD43CA905BE /* Pods-SkyUtilsPod_Tests */,
-				49E0C1987179ACD45B7BAF0A5206B86B /* SkyUtilsPod */,
-				5B2C12C1D5E10345918AC4E391ACCA6F /* SkyUtilsPod-SkyUtilsPod */,
-				3C167CE737B62BA44D4DFF92B3A567E9 /* SSKeychain */,
+				A650E2C70CE62767B65129142819C794 /* Pods-SkyUtilsPod_Example */,
+				3041AD50634A7AF603940FEA061471D3 /* Pods-SkyUtilsPod_Tests */,
+				A09FE67F882138024F81CA0F683E576A /* SAMKeychain */,
+				44C34926D516B43A0184B8A5B943B872 /* SkyUtilsPod */,
+				3B6D435AE4BD90A21B3E30A3E2E6F58A /* SkyUtilsPod-SkyUtilsPod */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6E80E5CDA2E63F7009E1B26D0A378C9B /* Resources */ = {
+		03FD6060277EEB6295DD0A3010B21A16 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D7A54E44319CE7A21C4DEC6172B3BBA /* backArrow@2x.png in Resources */,
+				0B14E5C6840A1252F1CF812C87F28ABC /* backArrow@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2DCFD89BC53FF1BE92D9FC474CD7BE13 /* Sources */ = {
+		0EB796C4AC8B47DBFC276D8F93A81C33 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA99D276909566BDA5144D9457EEC899 /* Pods-SkyUtilsPod_Example-dummy.m in Sources */,
+				ED1E07D5BC7D28120C36E7D9CEA6CC1E /* Pods-SkyUtilsPod_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		31C88BF5C625C9316EDDFD32993F278C /* Sources */ = {
+		15BAB53F5F22DCC0820E21BF345C42F9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4F6637DFF73AA0332076A6B54EC584D1 /* Sources */ = {
+		17E97A5B74B3119A7C8586927E9D5340 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E5B6C13984A1DD53F3AFFAC3BD52BAF /* Pods-SkyUtilsPod_Tests-dummy.m in Sources */,
+				F2300D850359687D470C138D24F783C3 /* Pods-SkyUtilsPod_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		66C23169B47A00B68E90C1884429A044 /* Sources */ = {
+		589E806B8675972F9C356CF3F04FB597 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9F41AD65F7678672DD61096E9A5BE9E /* SSKeychain-dummy.m in Sources */,
-				87AF7F8895CE5AD843EF3BD94E3795CB /* SSKeychain.m in Sources */,
-				991DEE3398BA1E58F66BCFD60087DD57 /* SSKeychainQuery.m in Sources */,
+				695E959D2F95A42E0E6BC3F83CA086E0 /* SAMKeychain-dummy.m in Sources */,
+				123DB3E76EEEBA3DFFA963C3952E6896 /* SAMKeychain.m in Sources */,
+				E07BE46CEE6C3C1DFF168A1F4535C613 /* SAMKeychainQuery.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E2A8BD4B6C3A333AB860CAF08BB0580C /* Sources */ = {
+		A20B8E4B3099DFD85D3A5F93C85E690A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3DDAF5F114EA658C8385CE8C9506EEDA /* backArrow@2x.png in Sources */,
-				522D9B7DE91FC0A090C966412F5E9550 /* BadgeStyle.m in Sources */,
-				C5841E9B4F25D01DC6247B30855013D9 /* CustomBadge.m in Sources */,
-				4490F5371D574D00CD9C3A38A7C51003 /* GTMBase64.m in Sources */,
-				B68C3A48BC6623C97DBDC107443BF023 /* MKNetworkReachability.m in Sources */,
-				DB9D3980C20178A73AFE389C7758442D /* NSDate+MKFormat.m in Sources */,
-				9C12B3F529CB26BFF9854C709273CA93 /* NSFileManager+MKExtend.m in Sources */,
-				4E73DFECFE1E73816D11335F68F92F77 /* NSString+MKExtend.m in Sources */,
-				2B8E1D8745EF22ACEB2D42CDEB31F186 /* NSString+MKSDes.m in Sources */,
-				7C7D84D0F89AD424BCDC0B1A29C9FA34 /* NSString+MKValidateRegex.m in Sources */,
-				A8C06CA5B17B56D44F87A3C8FD47ED60 /* SkyUtilsInfo.m in Sources */,
-				8DEDCF7E7AFC673D8A7E70C0E154A659 /* SkyUtilsPod-dummy.m in Sources */,
-				795265E0B8DB2FDE747CAC0312417313 /* UIColor+MKHex.m in Sources */,
-				C528BAB99F3C31DF146255ABF0C51B1D /* UIDevice+MKResolution.m in Sources */,
-				5F4BDEC0834AE76D3FFA9C4E18AC4E05 /* UIImage+MKExtend.m in Sources */,
-				F981B3ED3D5CAFCD7553CE07FBF7DBFD /* UIImage+MKResize.m in Sources */,
-				EFE115F5B056F48E14E1A46757B0CA21 /* UINavigationBar+MKCustom.m in Sources */,
-				C7DDB8E56BAD93FDFC650FD4373079BB /* UITabBar+MKExtend.m in Sources */,
-				C1FD8833A97136CDFDCDBC0AE8A355EC /* UITabBarController+MKExtend.m in Sources */,
-				4DCEB119997FC2D67CC137CA42BB5261 /* UITabBarItem+CustomBadge.m in Sources */,
-				0406C85228A2AEFBA2A66B471115D926 /* UITableView+MKExtend.m in Sources */,
-				4F609B381167D3FF2ECEF7077B15A335 /* UIView+MKExtend.m in Sources */,
-				D316874D14CCD6A02A3590EBDA60DA17 /* UIView+MKFrame.m in Sources */,
-				2759361BD1F75BDD7A23CD5C466FC6A5 /* UIViewController+MKAlert.m in Sources */,
-				00B35EE9FF153A606F0DD872B523FBC3 /* UIViewController+MKNavigationItem.m in Sources */,
-				BF9DA6F24D11897292AD253D284E7CCB /* UIWindow+MKExtend.m in Sources */,
-				9AE5A6BF59DDAFF4437B9E2D05F560D8 /* ZJPlaceHolderTextView.m in Sources */,
+				A57E7049792E6106EE05A2EC39AE8889 /* backArrow@2x.png in Sources */,
+				793BAAC63A8F2E1F5794EF547AE342CA /* BadgeStyle.m in Sources */,
+				78E0FB1015726288E3BEA6FEF0453656 /* CustomBadge.m in Sources */,
+				D4F8B5F7718F9B681A855FB11DB35873 /* GTMBase64.m in Sources */,
+				EC42104C65F938116B3B552B910F3DDA /* MKNetworkReachability.m in Sources */,
+				FE1CEBD59CF5C729C818F19186336156 /* NSDate+MKFormat.m in Sources */,
+				21B071560CF04F10A662E0E9498EAFCA /* NSFileManager+MKExtend.m in Sources */,
+				95AFB082BC3A55B98E5324FC67A025FA /* NSString+MKExtend.m in Sources */,
+				2245BBF7FA5DE47B22126A44E1734A9B /* NSString+MKSDes.m in Sources */,
+				6E8E132FAADA6EF03E18BE33436C70FE /* NSString+MKValidateRegex.m in Sources */,
+				ED303DBF7F1197DE1612B7D17119C82F /* SkyUtilsInfo.m in Sources */,
+				00F1C052D128839337D373D0C21B3C7C /* SkyUtilsPod-dummy.m in Sources */,
+				C575AA12421C2DCF5133363EE7A23EE2 /* UIColor+MKHex.m in Sources */,
+				FF5B58F0D06F3033241CB9C2ECEF86B9 /* UIDevice+MKResolution.m in Sources */,
+				908899E14F05D882CDD5A3FC6E519CA2 /* UIImage+MKExtend.m in Sources */,
+				F253CC0FED1ED7ABD9758467D48272C7 /* UIImage+MKResize.m in Sources */,
+				D294775C9D2EBB15576AE556AA317945 /* UINavigationBar+MKCustom.m in Sources */,
+				2EFF9E4FCF9DEE752E9C0D269E016BDF /* UITabBar+MKExtend.m in Sources */,
+				EBDD31385F859F190A8810E92B170617 /* UITabBarController+MKExtend.m in Sources */,
+				DFFBBD9FB591D3E73BD010A83A1EFCF7 /* UITabBarItem+CustomBadge.m in Sources */,
+				3318675D930CD73386E45E417B0B89B3 /* UITableView+MKExtend.m in Sources */,
+				BC7DCFD14632CD9915BA3C898654ED5C /* UIView+MKExtend.m in Sources */,
+				6DA3C06275BD803E3E01CF2B2C4B096E /* UIView+MKFrame.m in Sources */,
+				63300BBA1B4929D860C270CEE0B63B0E /* UIViewController+MKAlert.m in Sources */,
+				3B54A26C4A9A63EF7FF03E3575942CAA /* UIViewController+MKNavigationItem.m in Sources */,
+				7A8FD1C44E773A2715B90D41ACA3EEEE /* UIWindow+MKExtend.m in Sources */,
+				5D2D51EA6FB7A1EF8E3D04C1690568C8 /* ZJPlaceHolderTextView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		019C7E6558CCC726CADE577E78435C43 /* PBXTargetDependency */ = {
+		2ABC95F443C0879269571EFF252C1A4A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SAMKeychain;
+			target = A09FE67F882138024F81CA0F683E576A /* SAMKeychain */;
+			targetProxy = 6808E0C27B03CDFDA56FF5079E58FB03 /* PBXContainerItemProxy */;
+		};
+		45986CAF9F6AF777BFD68E2B24D50FCE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SkyUtilsPod;
-			target = 49E0C1987179ACD45B7BAF0A5206B86B /* SkyUtilsPod */;
-			targetProxy = DEC4782A34D53D33238DCA11DBB26D48 /* PBXContainerItemProxy */;
+			target = 44C34926D516B43A0184B8A5B943B872 /* SkyUtilsPod */;
+			targetProxy = D7AB9D7C1D6BD9686A2E46E5B478C568 /* PBXContainerItemProxy */;
 		};
-		7CEDA7CF9AE637EA0242969ED72F82EB /* PBXTargetDependency */ = {
+		86DDAE9DC78BA1E1764F0AAA3FA700A6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = SSKeychain;
-			target = 3C167CE737B62BA44D4DFF92B3A567E9 /* SSKeychain */;
-			targetProxy = D05D4E31D0F159A5028B303AD82EBB2A /* PBXContainerItemProxy */;
+			name = SAMKeychain;
+			target = A09FE67F882138024F81CA0F683E576A /* SAMKeychain */;
+			targetProxy = CBBEDCE5C588D6516DF853F7E2A40D3B /* PBXContainerItemProxy */;
 		};
-		8187B566502BD63F90C2362409EC506E /* PBXTargetDependency */ = {
+		8F77324FFCC4C93E28B58C9702943CF6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = SSKeychain;
-			target = 3C167CE737B62BA44D4DFF92B3A567E9 /* SSKeychain */;
-			targetProxy = 97D762BCB580B58ABE8E1B4E10F482D7 /* PBXContainerItemProxy */;
+			name = SkyUtilsPod;
+			target = 44C34926D516B43A0184B8A5B943B872 /* SkyUtilsPod */;
+			targetProxy = C7EEDAB1C9694DDE3F3665D37417BBD0 /* PBXContainerItemProxy */;
 		};
-		94A54DCA6B8F371D362DB2530A46AD90 /* PBXTargetDependency */ = {
+		ECDE795C687C0E111B10B2E3FF3E533C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "SkyUtilsPod-SkyUtilsPod";
-			target = 5B2C12C1D5E10345918AC4E391ACCA6F /* SkyUtilsPod-SkyUtilsPod */;
-			targetProxy = 7D0023BB4E747FE7BACEECF52E8C6786 /* PBXContainerItemProxy */;
+			target = 3B6D435AE4BD90A21B3E30A3E2E6F58A /* SkyUtilsPod-SkyUtilsPod */;
+			targetProxy = 7D10C5A77FCC734253784B6140D5F31A /* PBXContainerItemProxy */;
 		};
-		C032EC7BEEE7557F33898F6C9C74789A /* PBXTargetDependency */ = {
+		FA915AEE0F21CFB6FCF5D8EB73A61579 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = SkyUtilsPod;
-			target = 49E0C1987179ACD45B7BAF0A5206B86B /* SkyUtilsPod */;
-			targetProxy = E72C270D813584F36B233A7E88D758F4 /* PBXContainerItemProxy */;
-		};
-		C66BE7DD00C9ED2E6FC6F853B825BCBA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SSKeychain;
-			target = 3C167CE737B62BA44D4DFF92B3A567E9 /* SSKeychain */;
-			targetProxy = 04638FCC92D343011788D036FEEF6751 /* PBXContainerItemProxy */;
+			name = SAMKeychain;
+			target = A09FE67F882138024F81CA0F683E576A /* SAMKeychain */;
+			targetProxy = 3289DD6269D8422617EEF0BEEA3E43FD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		012AE612C7E1A00C8A967C03A660FD29 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4D9897F97D14871EE9CACD160909FD1E /* Pods-SkyUtilsPod_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
 		015A368F878AC3E2CEAE21DDE8026304 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -981,32 +1004,9 @@
 			};
 			name = Debug;
 		};
-		1690E10BF27B26D593D71786322909B3 /* Debug */ = {
+		063BAC8915FA97D2AEC03F6E773C6CCB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E05B669323E4663F97EF000831BA620 /* SSKeychain.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/SSKeychain/SSKeychain-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		1DFF013283C2408E4BC9C486228CFB79 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E05B669323E4663F97EF000831BA620 /* SSKeychain.xcconfig */;
+			baseConfigurationReference = 9F24629604708F237B564424431446AE /* SkyUtilsPod.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1014,8 +1014,8 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/SSKeychain/SSKeychain-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				GCC_PREFIX_HEADER = "Target Support Files/SkyUtilsPod/SkyUtilsPod-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1027,7 +1027,7 @@
 			};
 			name = Release;
 		};
-		28E761270547186BB89248779D514955 /* Release */ = {
+		0AE3AB1A2B43EBB5E79881EEF5D3F8AF /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DAD18995F6D3E9F7C6C27CE9AAC2ACB1 /* Pods-SkyUtilsPod_Example.release.xcconfig */;
 			buildSettings = {
@@ -1050,19 +1050,19 @@
 			};
 			name = Release;
 		};
-		36E78CCBEE4309A0C4707762CCE05061 /* Release */ = {
+		118D69189B731B5D4D10B519D141F3A0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9F24629604708F237B564424431446AE /* SkyUtilsPod.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/SkyUtilsPod/SkyUtilsPod-prefix.pch";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PRIVATE_HEADERS_FOLDER_PATH = "";
@@ -1070,6 +1070,46 @@
 				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		130A3A224E92151EF60E50CBB0261571 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28FA2B29B76594C7230360134603A672 /* Pods-SkyUtilsPod_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1D52C9D4ABB25A72FB157F78C47DA831 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F24629604708F237B564424431446AE /* SkyUtilsPod.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SkyUtilsPod";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/SkyUtilsPod/ResourceBundle-SkyUtilsPod-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = SkyUtilsPod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -1113,7 +1153,7 @@
 			};
 			name = Release;
 		};
-		8DD95B98ABAA17C6277B621F883EC91F /* Release */ = {
+		4742F3480FA1344C998F08FF34966481 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9F24629604708F237B564424431446AE /* SkyUtilsPod.xcconfig */;
 			buildSettings = {
@@ -1128,11 +1168,11 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
+			name = Debug;
 		};
-		90D228B1EEC782619C43BEFE87283A44 /* Debug */ = {
+		5B779B9613FF524186DA817CBA632BD3 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 28FA2B29B76594C7230360134603A672 /* Pods-SkyUtilsPod_Example.debug.xcconfig */;
+			baseConfigurationReference = AE2B3B53C752F1E236FE6CBB71C0A7BC /* SAMKeychain.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1140,37 +1180,20 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MACH_O_TYPE = staticlib;
+				GCC_PREFIX_HEADER = "Target Support Files/SAMKeychain/SAMKeychain-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
-		A1180D5E4F806C6C85235465DA16DB06 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9F24629604708F237B564424431446AE /* SkyUtilsPod.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SkyUtilsPod";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/SkyUtilsPod/ResourceBundle-SkyUtilsPod-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				PRODUCT_NAME = SkyUtilsPod;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		A2B4DAA9627D95E990F1AAD467564916 /* Debug */ = {
+		98869015D52AD88CC8D723724C8CD8A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D96CF5EFACF3B32AF6CCBBA1DA309C18 /* Pods-SkyUtilsPod_Tests.debug.xcconfig */;
 			buildSettings = {
@@ -1193,19 +1216,19 @@
 			};
 			name = Debug;
 		};
-		B91D85E3A231AFE08B3CB8A348D25CB0 /* Debug */ = {
+		F6D7DA5F5AD79E8173F1DD78CDA74327 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9F24629604708F237B564424431446AE /* SkyUtilsPod.xcconfig */;
+			baseConfigurationReference = AE2B3B53C752F1E236FE6CBB71C0A7BC /* SAMKeychain.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/SkyUtilsPod/SkyUtilsPod-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				MTL_ENABLE_DEBUG_INFO = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SAMKeychain/SAMKeychain-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PRIVATE_HEADERS_FOLDER_PATH = "";
@@ -1214,48 +1237,16 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
-			name = Debug;
-		};
-		F40FDFDBE633B622D7B8E19240E0E174 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D9897F97D14871EE9CACD160909FD1E /* Pods-SkyUtilsPod_Tests.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MACH_O_TYPE = staticlib;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1CCABCF5B480B5A6081A19DACF0D41A7 /* Build configuration list for PBXNativeTarget "SkyUtilsPod" */ = {
+		0498DD23EE824AFF8B300A4F590B3C97 /* Build configuration list for PBXNativeTarget "SkyUtilsPod-SkyUtilsPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B91D85E3A231AFE08B3CB8A348D25CB0 /* Debug */,
-				36E78CCBEE4309A0C4707762CCE05061 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		201E6C17725BF9358D79EB15415CDB98 /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				90D228B1EEC782619C43BEFE87283A44 /* Debug */,
-				28E761270547186BB89248779D514955 /* Release */,
+				4742F3480FA1344C998F08FF34966481 /* Debug */,
+				1D52C9D4ABB25A72FB157F78C47DA831 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1269,29 +1260,38 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		61FB7DC4ECD8B0B1F7006B840B4F9E85 /* Build configuration list for PBXNativeTarget "SkyUtilsPod-SkyUtilsPod" */ = {
+		4752D73985F4D5B1876B8EA156F4BA72 /* Build configuration list for PBXNativeTarget "SkyUtilsPod" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1180D5E4F806C6C85235465DA16DB06 /* Debug */,
-				8DD95B98ABAA17C6277B621F883EC91F /* Release */,
+				118D69189B731B5D4D10B519D141F3A0 /* Debug */,
+				063BAC8915FA97D2AEC03F6E773C6CCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9336AE40909C210F8D5C2F42CB3AB17C /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Tests" */ = {
+		4DF98CB39AEFA1346B9CA96FB3D411D7 /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A2B4DAA9627D95E990F1AAD467564916 /* Debug */,
-				F40FDFDBE633B622D7B8E19240E0E174 /* Release */,
+				130A3A224E92151EF60E50CBB0261571 /* Debug */,
+				0AE3AB1A2B43EBB5E79881EEF5D3F8AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F0B1A6A5C4EEAD75081B9566D846147C /* Build configuration list for PBXNativeTarget "SSKeychain" */ = {
+		7A10CA2093CA69772C37011ACC3FFD93 /* Build configuration list for PBXNativeTarget "Pods-SkyUtilsPod_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1690E10BF27B26D593D71786322909B3 /* Debug */,
-				1DFF013283C2408E4BC9C486228CFB79 /* Release */,
+				98869015D52AD88CC8D723724C8CD8A8 /* Debug */,
+				012AE612C7E1A00C8A967C03A660FD29 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C7E00E571A9F15350503C55F028E1DC5 /* Build configuration list for PBXNativeTarget "SAMKeychain" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5B779B9613FF524186DA817CBA632BD3 /* Debug */,
+				F6D7DA5F5AD79E8173F1DD78CDA74327 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

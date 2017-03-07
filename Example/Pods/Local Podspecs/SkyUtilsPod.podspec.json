@@ -6,10 +6,10 @@
   "homepage": "https://github.com/<GITHUB_USERNAME>/SkyUtilsPod",
   "license": "MIT",
   "authors": {
-    "Jason.He": "jason.he@missionsky.com"
+    "zhujin001032": "zhujin001xb@163.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/SkyUtilsPod.git",
+    "git": "https://github.com/zhujin001032/SkyUtilsPod.git",
     "tag": "0.1.3"
   },
   "platforms": {
@@ -23,8 +23,8 @@
     ]
   },
   "dependencies": {
-    "SSKeychain": [
-      "~> 1.4.0"
+    "SAMKeychain": [
+      "~> 1.5.2"
     ]
   }
 }

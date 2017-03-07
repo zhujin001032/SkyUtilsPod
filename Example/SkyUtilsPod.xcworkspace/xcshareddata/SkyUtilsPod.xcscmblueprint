@@ -1,16 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "bd2a211b-6fa2-a04e-8179-0333786180b7++3570",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1EE558AAA8753C2B2A68B1439EC7727826B8243A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "bd2a211b-6fa2-a04e-8179-0333786180b7++3570" : {
+    "1EE558AAA8753C2B2A68B1439EC7727826B8243A" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "bd2a211b-6fa2-a04e-8179-0333786180b7++3570" : 0
+    "1EE558AAA8753C2B2A68B1439EC7727826B8243A" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2AC93F6E-DE86-4607-9064-158C772E7863",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "bd2a211b-6fa2-a04e-8179-0333786180b7++3570" : "SkyUtilsPod\/"
+    "1EE558AAA8753C2B2A68B1439EC7727826B8243A" : "SkyUtilsPod\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SkyUtilsPod",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/mark.yang@ms-server1:8080\/svn",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bd2a211b-6fa2-a04e-8179-0333786180b7++3570"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1EE558AAA8753C2B2A68B1439EC7727826B8243A"
     }
   ]
 }

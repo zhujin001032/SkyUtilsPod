@@ -80,7 +80,7 @@
 
 #import "UIDevice+MKResolution.h"
 
-#import <SSKeychain/SSKeychain.h>
+#import <SAMKeychain/SAMKeychain.h>
 
 #import "ZJPlaceHolderTextView.h"
 

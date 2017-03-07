@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## SSKeychain
+## SAMKeychain
 
 Copyright (c) 2010-2016 Sam Soffes, http://soff.es
 
